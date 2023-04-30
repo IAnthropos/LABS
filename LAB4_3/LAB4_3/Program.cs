@@ -84,7 +84,6 @@ namespace LAB4_3
             Console.WriteLine(RadToDeg(DegToRad(30)).ToString("F2"));
             Console.WriteLine(BinaryDigit(new BigInteger(1024)));
             Console.WriteLine(BinaryDigit(new BigInteger(1025)));
-
         } 
     }
 }
